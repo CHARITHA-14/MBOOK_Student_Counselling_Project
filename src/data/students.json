@@ -1,0 +1,7090 @@
+[
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU012",
+    "name": "NAGALLA CHARITHA SRI",
+    "registrationNumber": "23b01a12b7",
+    "email": "nagalla.charitha@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=NAGALLA%20CHARITHA%20SRI&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "B",
+    "cgpa": 7.5,
+    "attendance": 85,
+    "backlogs": 0,
+    "counsellingSessions": 1,
+    "phone": "+91 9151718394",
+    "parentContact": "+91 9146334319",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-01-24",
+    "bloodGroup": "AB+",
+    "address": "112 Street, City, State - 1234512",
+    "aadharNumber": "12234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU013",
+    "name": "MANEM HARI PRIYA",
+    "registrationNumber": "23b01a12a1",
+    "email": "manem.hari@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=MANEM%20HARI%20PRIYA&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "C",
+    "cgpa": 8.5,
+    "attendance": 75,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9093097610",
+    "parentContact": "+91 9270743813",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-12-28",
+    "bloodGroup": "AB+",
+    "address": "113 Street, City, State - 1234513",
+    "aadharNumber": "13234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU014",
+    "name": "MARAGANI CHATURYA",
+    "registrationNumber": "23b01a12a4",
+    "email": "maragani.chaturya@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=MARAGANI%20CHATURYA&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "A",
+    "cgpa": 7.9,
+    "attendance": 84,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9385314406",
+    "parentContact": "+91 9243997517",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-08-26",
+    "bloodGroup": "B+",
+    "address": "114 Street, City, State - 1234514",
+    "aadharNumber": "14234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU015",
+    "name": "NALLI NISHMA",
+    "registrationNumber": "23b01a12c3",
+    "email": "nalli.nishma@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=NALLI%20NISHMA&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "B",
+    "cgpa": 7.6,
+    "attendance": 81,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9330860737",
+    "parentContact": "+91 9147644832",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-09-04",
+    "bloodGroup": "O+",
+    "address": "115 Street, City, State - 1234515",
+    "aadharNumber": "15234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU016",
+    "name": "NALLI CHELCY",
+    "registrationNumber": "23b01a12c2",
+    "email": "nalli.chelcy@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=NALLI%20CHELCY&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "C",
+    "cgpa": 7.7,
+    "attendance": 83,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9355419997",
+    "parentContact": "+91 9260963911",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-09-03",
+    "bloodGroup": "O+",
+    "address": "116 Street, City, State - 1234516",
+    "aadharNumber": "16234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU017",
+    "name": "MEDEM PRAVEENA",
+    "registrationNumber": "23b01a12b0",
+    "email": "medem.praveena@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=MEDEM%20PRAVEENA&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "A",
+    "cgpa": 8.6,
+    "attendance": 94,
+    "backlogs": 0,
+    "counsellingSessions": 0,
+    "phone": "+91 9077786524",
+    "parentContact": "+91 9111316814",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-11-17",
+    "bloodGroup": "B+",
+    "address": "117 Street, City, State - 1234517",
+    "aadharNumber": "17234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU018",
+    "name": "MOGALLAPU PADMA",
+    "registrationNumber": "23b01a12b3",
+    "email": "mogallapu.padma@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=MOGALLAPU%20PADMA&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "B",
+    "cgpa": 8.4,
+    "attendance": 85,
+    "backlogs": 0,
+    "counsellingSessions": 0,
+    "phone": "+91 9367866098",
+    "parentContact": "+91 9072849318",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-02-01",
+    "bloodGroup": "B+",
+    "address": "118 Street, City, State - 1234518",
+    "aadharNumber": "18234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU019",
+    "name": "NAMBURI SOWJANYA",
+    "registrationNumber": "23b01a12c5",
+    "email": "namburi.sowjanya@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=NAMBURI%20SOWJANYA&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "C",
+    "cgpa": 8.6,
+    "attendance": 82,
+    "backlogs": 0,
+    "counsellingSessions": 0,
+    "phone": "+91 9776300364",
+    "parentContact": "+91 9132774826",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-10-25",
+    "bloodGroup": "AB+",
+    "address": "119 Street, City, State - 1234519",
+    "aadharNumber": "19234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU020",
+    "name": "NANDEPU MOULIKA",
+    "registrationNumber": "23b01a12c6",
+    "email": "nandepu.moulika@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=NANDEPU%20MOULIKA&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "A",
+    "cgpa": 7.8,
+    "attendance": 75,
+    "backlogs": 0,
+    "counsellingSessions": 2,
+    "phone": "+91 9766327965",
+    "parentContact": "+91 9743173968",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-08-03",
+    "bloodGroup": "AB+",
+    "address": "120 Street, City, State - 1234520",
+    "aadharNumber": "20234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU021",
+    "name": "NALABOLU SWAPNA",
+    "registrationNumber": "23b01a12c0",
+    "email": "nalabolu.swapna@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=NALABOLU%20SWAPNA&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 2,
+    "section": "A",
+    "cgpa": 8.7,
+    "attendance": 84,
+    "backlogs": 1,
+    "counsellingSessions": 1,
+    "phone": "+91 9926970985",
+    "parentContact": "+91 9641320522",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-05-01",
+    "bloodGroup": "O+",
+    "address": "121 Street, City, State - 1234521",
+    "aadharNumber": "21234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU022",
+    "name": "MAKKINENI KAVYA",
+    "registrationNumber": "23b01a1299",
+    "email": "makkineni.kavya@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=MAKKINENI%20KAVYA&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 2,
+    "section": "B",
+    "cgpa": 7.9,
+    "attendance": 81,
+    "backlogs": 0,
+    "counsellingSessions": 4,
+    "phone": "+91 9767743598",
+    "parentContact": "+91 9781635717",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-03-15",
+    "bloodGroup": "A+",
+    "address": "122 Street, City, State - 1234522",
+    "aadharNumber": "22234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU023",
+    "name": "LANKA KANISHKA",
+    "registrationNumber": "23b01a1291",
+    "email": "lanka.kanishka@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=LANKA%20KANISHKA&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 2,
+    "section": "C",
+    "cgpa": 7.7,
+    "attendance": 76,
+    "backlogs": 0,
+    "counsellingSessions": 0,
+    "phone": "+91 9962657780",
+    "parentContact": "+91 9026091567",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-01-10",
+    "bloodGroup": "B+",
+    "address": "123 Street, City, State - 1234523",
+    "aadharNumber": "23234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU024",
+    "name": "KARRI AKHILA",
+    "registrationNumber": "23b01a1274",
+    "email": "karri.akhila@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=KARRI%20AKHILA&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 2,
+    "section": "A",
+    "cgpa": 7.8,
+    "attendance": 88,
+    "backlogs": 0,
+    "counsellingSessions": 0,
+    "phone": "+91 9494212417",
+    "parentContact": "+91 9468372959",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-12-20",
+    "bloodGroup": "AB+",
+    "address": "124 Street, City, State - 1234524",
+    "aadharNumber": "24234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU025",
+    "name": "KOPPADI PAVANI",
+    "registrationNumber": "23b01a1283",
+    "email": "koppadi.pavani@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=KOPPADI%20PAVANI&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 2,
+    "section": "B",
+    "cgpa": 8.1,
+    "attendance": 75,
+    "backlogs": 0,
+    "counsellingSessions": 0,
+    "phone": "+91 9224764832",
+    "parentContact": "+91 9020738381",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-10-19",
+    "bloodGroup": "A+",
+    "address": "125 Street, City, State - 1234525",
+    "aadharNumber": "25234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU026",
+    "name": "KOLLABATHULA KEERTHANA",
+    "registrationNumber": "23b01a1280",
+    "email": "kollabathula.keerthana@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=KOLLABATHULA%20KEERTHANA&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 2,
+    "section": "C",
+    "cgpa": 8.1,
+    "attendance": 83,
+    "backlogs": 0,
+    "counsellingSessions": 4,
+    "phone": "+91 9604628412",
+    "parentContact": "+91 9467483558",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-02-12",
+    "bloodGroup": "AB+",
+    "address": "126 Street, City, State - 1234526",
+    "aadharNumber": "26234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU027",
+    "name": "Ekta Sharma",
+    "registrationNumber": "23b01a0427",
+    "email": "ekta.sharma@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Ekta%20Sharma&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 2,
+    "section": "A",
+    "cgpa": 8.1,
+    "attendance": 86,
+    "backlogs": 1,
+    "counsellingSessions": 4,
+    "phone": "+91 9483702197",
+    "parentContact": "+91 9934426328",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-08-10",
+    "bloodGroup": "A+",
+    "address": "127 Street, City, State - 1234527",
+    "aadharNumber": "27234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU028",
+    "name": "Farah Patel",
+    "registrationNumber": "23b01a0428",
+    "email": "farah.patel@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Farah%20Patel&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 2,
+    "section": "B",
+    "cgpa": 8.7,
+    "attendance": 94,
+    "backlogs": 0,
+    "counsellingSessions": 4,
+    "phone": "+91 9764944912",
+    "parentContact": "+91 9832882848",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-05-21",
+    "bloodGroup": "B+",
+    "address": "128 Street, City, State - 1234528",
+    "aadharNumber": "28234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU029",
+    "name": "Gitanjali Rao",
+    "registrationNumber": "23b01a0429",
+    "email": "gitanjali.rao@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Gitanjali%20Rao&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 2,
+    "section": "C",
+    "cgpa": 8.6,
+    "attendance": 79,
+    "backlogs": 0,
+    "counsellingSessions": 0,
+    "phone": "+91 9613419970",
+    "parentContact": "+91 9717540412",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-10-24",
+    "bloodGroup": "B+",
+    "address": "129 Street, City, State - 1234529",
+    "aadharNumber": "29234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU030",
+    "name": "Hema Krishnan",
+    "registrationNumber": "23b01a0430",
+    "email": "hema.krishnan@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Hema%20Krishnan&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 2,
+    "section": "A",
+    "cgpa": 8,
+    "attendance": 92,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9365647646",
+    "parentContact": "+91 9940997872",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-03-21",
+    "bloodGroup": "A+",
+    "address": "130 Street, City, State - 1234530",
+    "aadharNumber": "30234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU031",
+    "name": "Indira Nair",
+    "registrationNumber": "23b01a0431",
+    "email": "indira.nair@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Indira%20Nair&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "A",
+    "cgpa": 8.7,
+    "attendance": 91,
+    "backlogs": 0,
+    "counsellingSessions": 3,
+    "phone": "+91 9356055479",
+    "parentContact": "+91 9988153244",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-04-23",
+    "bloodGroup": "A+",
+    "address": "131 Street, City, State - 1234531",
+    "aadharNumber": "31234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU032",
+    "name": "Jaya Venkat",
+    "registrationNumber": "23b01a0432",
+    "email": "jaya.venkat@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Jaya%20Venkat&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "B",
+    "cgpa": 7.7,
+    "attendance": 75,
+    "backlogs": 0,
+    "counsellingSessions": 4,
+    "phone": "+91 9531677607",
+    "parentContact": "+91 9932468610",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-10-05",
+    "bloodGroup": "A+",
+    "address": "132 Street, City, State - 1234532",
+    "aadharNumber": "32234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU033",
+    "name": "Kriti Singh",
+    "registrationNumber": "23b01a0433",
+    "email": "kriti.singh@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Kriti%20Singh&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "C",
+    "cgpa": 8.9,
+    "attendance": 93,
+    "backlogs": 0,
+    "counsellingSessions": 3,
+    "phone": "+91 9151899784",
+    "parentContact": "+91 9077794755",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-03-22",
+    "bloodGroup": "A+",
+    "address": "133 Street, City, State - 1234533",
+    "aadharNumber": "33234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU034",
+    "name": "Lalita Kumar",
+    "registrationNumber": "23b01a0434",
+    "email": "lalita.kumar@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Lalita%20Kumar&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "A",
+    "cgpa": 8.4,
+    "attendance": 93,
+    "backlogs": 0,
+    "counsellingSessions": 4,
+    "phone": "+91 9384065342",
+    "parentContact": "+91 9458169314",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-09-08",
+    "bloodGroup": "A+",
+    "address": "134 Street, City, State - 1234534",
+    "aadharNumber": "34234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU035",
+    "name": "Maya Iyer",
+    "registrationNumber": "23b01a0435",
+    "email": "maya.iyer@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Maya%20Iyer&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "B",
+    "cgpa": 8.7,
+    "attendance": 85,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9148110741",
+    "parentContact": "+91 9174509275",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-09-02",
+    "bloodGroup": "O+",
+    "address": "135 Street, City, State - 1234535",
+    "aadharNumber": "35234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU036",
+    "name": "Nithya Menon",
+    "registrationNumber": "23b01a0436",
+    "email": "nithya.menon@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Nithya%20Menon&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "C",
+    "cgpa": 8.2,
+    "attendance": 84,
+    "backlogs": 1,
+    "counsellingSessions": 3,
+    "phone": "+91 9492280029",
+    "parentContact": "+91 9531600525",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-02-11",
+    "bloodGroup": "A+",
+    "address": "136 Street, City, State - 1234536",
+    "aadharNumber": "36234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU037",
+    "name": "Oormila Das",
+    "registrationNumber": "23b01a0437",
+    "email": "oormila.das@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Oormila%20Das&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "A",
+    "cgpa": 8,
+    "attendance": 93,
+    "backlogs": 0,
+    "counsellingSessions": 4,
+    "phone": "+91 9298780048",
+    "parentContact": "+91 9644256733",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-12-18",
+    "bloodGroup": "B+",
+    "address": "137 Street, City, State - 1234537",
+    "aadharNumber": "37234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU038",
+    "name": "Parvati Reddy",
+    "registrationNumber": "23b01a0438",
+    "email": "parvati.reddy@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Parvati%20Reddy&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "B",
+    "cgpa": 8.6,
+    "attendance": 94,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9660699963",
+    "parentContact": "+91 9958832461",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-02-07",
+    "bloodGroup": "B+",
+    "address": "138 Street, City, State - 1234538",
+    "aadharNumber": "38234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU039",
+    "name": "Queen Gupta",
+    "registrationNumber": "23b01a0439",
+    "email": "queen.gupta@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Queen%20Gupta&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "C",
+    "cgpa": 7.9,
+    "attendance": 92,
+    "backlogs": 1,
+    "counsellingSessions": 5,
+    "phone": "+91 9366736100",
+    "parentContact": "+91 9684005520",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-10-22",
+    "bloodGroup": "AB+",
+    "address": "139 Street, City, State - 1234539",
+    "aadharNumber": "39234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU040",
+    "name": "Radhika Sharma",
+    "registrationNumber": "23b01a0440",
+    "email": "radhika.sharma@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Radhika%20Sharma&background=7c3aed&color=fff&size=128",
+    "branch": "Computer Science Engineering",
+    "year": 3,
+    "section": "A",
+    "cgpa": 8.1,
+    "attendance": 85,
+    "backlogs": 0,
+    "counsellingSessions": 0,
+    "phone": "+91 9154060430",
+    "parentContact": "+91 9524358832",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-07-25",
+    "bloodGroup": "B+",
+    "address": "140 Street, City, State - 1234540",
+    "aadharNumber": "40234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU041",
+    "name": "Shruti Patel",
+    "registrationNumber": "23b01a1201",
+    "email": "shruti.patel@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Shruti%20Patel&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "A",
+    "cgpa": 8.4,
+    "attendance": 77,
+    "backlogs": 0,
+    "counsellingSessions": 1,
+    "phone": "+91 9290326838",
+    "parentContact": "+91 9096930507",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2002-02-01",
+    "bloodGroup": "B+",
+    "address": "141 Street, City, State - 1234541",
+    "aadharNumber": "41234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU042",
+    "name": "Tulasi Rao",
+    "registrationNumber": "23b01a1201",
+    "email": "tulasi.rao@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Tulasi%20Rao&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "B",
+    "cgpa": 8,
+    "attendance": 94,
+    "backlogs": 0,
+    "counsellingSessions": 4,
+    "phone": "+91 9033670436",
+    "parentContact": "+91 9613572149",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2002-09-09",
+    "bloodGroup": "B+",
+    "address": "142 Street, City, State - 1234542",
+    "aadharNumber": "42234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU043",
+    "name": "Urvashi Krishnan",
+    "registrationNumber": "23b01a1202",
+    "email": "urvashi.krishnan@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Urvashi%20Krishnan&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "C",
+    "cgpa": 8.4,
+    "attendance": 93,
+    "backlogs": 0,
+    "counsellingSessions": 1,
+    "phone": "+91 9145394896",
+    "parentContact": "+91 9079920589",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2002-06-10",
+    "bloodGroup": "B+",
+    "address": "143 Street, City, State - 1234543",
+    "aadharNumber": "43234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU044",
+    "name": "Vandana Nair",
+    "registrationNumber": "23b01a1203",
+    "email": "vandana.nair@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Vandana%20Nair&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "A",
+    "cgpa": 9,
+    "attendance": 77,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9810926730",
+    "parentContact": "+91 9260985666",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2002-04-07",
+    "bloodGroup": "A+",
+    "address": "144 Street, City, State - 1234544",
+    "aadharNumber": "44234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU045",
+    "name": "Wendy Singh",
+    "registrationNumber": "23b01a1204",
+    "email": "wendy.singh@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Wendy%20Singh&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "B",
+    "cgpa": 9,
+    "attendance": 75,
+    "backlogs": 0,
+    "counsellingSessions": 1,
+    "phone": "+91 9964822137",
+    "parentContact": "+91 9385823565",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2002-04-12",
+    "bloodGroup": "B+",
+    "address": "145 Street, City, State - 1234545",
+    "aadharNumber": "45234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU046",
+    "name": "Xena Iyer",
+    "registrationNumber": "23b01a1205",
+    "email": "xena.iyer@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Xena%20Iyer&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "C",
+    "cgpa": 7.9,
+    "attendance": 90,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9127002940",
+    "parentContact": "+91 9033700817",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2002-11-15",
+    "bloodGroup": "O+",
+    "address": "146 Street, City, State - 1234546",
+    "aadharNumber": "46234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU047",
+    "name": "Yasmin Menon",
+    "registrationNumber": "23B01A1207",
+    "email": "yasmin.menon@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Yasmin%20Menon&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "A",
+    "cgpa": 8.9,
+    "attendance": 89,
+    "backlogs": 0,
+    "counsellingSessions": 4,
+    "phone": "+91 9352405033",
+    "parentContact": "+91 9963335402",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2002-06-22",
+    "bloodGroup": "O+",
+    "address": "147 Street, City, State - 1234547",
+    "aadharNumber": "47234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU048",
+    "name": "Zeenat Das",
+    "registrationNumber": "23B01A1208",
+    "email": "zeenat.das@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Zeenat%20Das&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "B",
+    "cgpa": 8.2,
+    "attendance": 85,
+    "backlogs": 0,
+    "counsellingSessions": 0,
+    "phone": "+91 9301140767",
+    "parentContact": "+91 9098673851",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2002-05-19",
+    "bloodGroup": "O+",
+    "address": "148 Street, City, State - 1234548",
+    "aadharNumber": "48234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU049",
+    "name": "Amrita Reddy",
+    "registrationNumber": "23B01A1209",
+    "email": "amrita.reddy@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Amrita%20Reddy&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "C",
+    "cgpa": 7.9,
+    "attendance": 92,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9180035581",
+    "parentContact": "+91 9100141391",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2002-05-16",
+    "bloodGroup": "O+",
+    "address": "149 Street, City, State - 1234549",
+    "aadharNumber": "49234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU050",
+    "name": "Brinda Kumar",
+    "registrationNumber": "23B01A1210",
+    "email": "brinda.kumar@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Brinda%20Kumar&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "A",
+    "cgpa": 8.4,
+    "attendance": 88,
+    "backlogs": 0,
+    "counsellingSessions": 3,
+    "phone": "+91 9656446694",
+    "parentContact": "+91 9316300927",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2002-09-20",
+    "bloodGroup": "B+",
+    "address": "150 Street, City, State - 1234550",
+    "aadharNumber": "50234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU051",
+    "name": "Chandrika Gupta",
+    "registrationNumber": "23B01A1211",
+    "email": "chandrika.gupta@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Chandrika%20Gupta&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "A",
+    "cgpa": 8.1,
+    "attendance": 82,
+    "backlogs": 0,
+    "counsellingSessions": 1,
+    "phone": "+91 9078423882",
+    "parentContact": "+91 9878457159",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2003-10-22",
+    "bloodGroup": "B+",
+    "address": "151 Street, City, State - 1234551",
+    "aadharNumber": "51234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU052",
+    "name": "Deepika Sharma",
+    "registrationNumber": "23B01A1212",
+    "email": "deepika.sharma@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Deepika%20Sharma&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "B",
+    "cgpa": 7.8,
+    "attendance": 86,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9831742151",
+    "parentContact": "+91 9257462776",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2003-02-15",
+    "bloodGroup": "O+",
+    "address": "152 Street, City, State - 1234552",
+    "aadharNumber": "52234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU053",
+    "name": "Eesha Patel",
+    "registrationNumber": "23B01A1213",
+    "email": "eesha.patel@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Eesha%20Patel&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "C",
+    "cgpa": 8.4,
+    "attendance": 83,
+    "backlogs": 0,
+    "counsellingSessions": 2,
+    "phone": "+91 9644028159",
+    "parentContact": "+91 9825399525",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2003-10-04",
+    "bloodGroup": "A+",
+    "address": "153 Street, City, State - 1234553",
+    "aadharNumber": "53234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU054",
+    "name": "Fathima Rao",
+    "registrationNumber": "23B01A1214",
+    "email": "fathima.rao@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Fathima%20Rao&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "A",
+    "cgpa": 8.5,
+    "attendance": 86,
+    "backlogs": 0,
+    "counsellingSessions": 3,
+    "phone": "+91 9307542654",
+    "parentContact": "+91 9813451412",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2003-01-06",
+    "bloodGroup": "A+",
+    "address": "154 Street, City, State - 1234554",
+    "aadharNumber": "54234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU055",
+    "name": "Gowri Krishnan",
+    "registrationNumber": "23B01A1215",
+    "email": "gowri.krishnan@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Gowri%20Krishnan&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "B",
+    "cgpa": 8.8,
+    "attendance": 84,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9709735234",
+    "parentContact": "+91 9078454553",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2003-01-02",
+    "bloodGroup": "O+",
+    "address": "155 Street, City, State - 1234555",
+    "aadharNumber": "55234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU056",
+    "name": "Harini Nair",
+    "registrationNumber": "23B01A1216",
+    "email": "harini.nair@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Harini%20Nair&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "C",
+    "cgpa": 8.1,
+    "attendance": 80,
+    "backlogs": 0,
+    "counsellingSessions": 1,
+    "phone": "+91 9743248488",
+    "parentContact": "+91 9614074602",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2003-11-17",
+    "bloodGroup": "B+",
+    "address": "156 Street, City, State - 1234556",
+    "aadharNumber": "56234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU057",
+    "name": "Inika Singh",
+    "registrationNumber": "23B01A1217",
+    "email": "inika.singh@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Inika%20Singh&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "A",
+    "cgpa": 8.1,
+    "attendance": 76,
+    "backlogs": 0,
+    "counsellingSessions": 1,
+    "phone": "+91 9574956407",
+    "parentContact": "+91 9948367134",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2003-10-15",
+    "bloodGroup": "AB+",
+    "address": "157 Street, City, State - 1234557",
+    "aadharNumber": "57234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU058",
+    "name": "Janani Iyer",
+    "registrationNumber": "23B01A1218",
+    "email": "janani.iyer@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Janani%20Iyer&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "B",
+    "cgpa": 8.1,
+    "attendance": 86,
+    "backlogs": 0,
+    "counsellingSessions": 4,
+    "phone": "+91 9199407678",
+    "parentContact": "+91 9775047683",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2003-12-16",
+    "bloodGroup": "A+",
+    "address": "158 Street, City, State - 1234558",
+    "aadharNumber": "58234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU059",
+    "name": "Kaveri Menon",
+    "registrationNumber": "23B01A1219",
+    "email": "kaveri.menon@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Kaveri%20Menon&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "C",
+    "cgpa": 7.8,
+    "attendance": 90,
+    "backlogs": 0,
+    "counsellingSessions": 3,
+    "phone": "+91 9436029212",
+    "parentContact": "+91 9510035329",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2003-11-22",
+    "bloodGroup": "B+",
+    "address": "159 Street, City, State - 1234559",
+    "aadharNumber": "59234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU060",
+    "name": "Lavanya Das",
+    "registrationNumber": "23B01A1220",
+    "email": "lavanya.das@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Lavanya%20Das&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "A",
+    "cgpa": 7.6,
+    "attendance": 82,
+    "backlogs": 0,
+    "counsellingSessions": 4,
+    "phone": "+91 9312666179",
+    "parentContact": "+91 9387153981",
+    "mentorId": "MEN003",
+    "dateOfBirth": "2003-12-06",
+    "bloodGroup": "AB+",
+    "address": "160 Street, City, State - 1234560",
+    "aadharNumber": "60234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU061",
+    "name": "Mrunal Reddy",
+    "registrationNumber": "23B01A0501",
+    "email": "mrunal.reddy@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Mrunal%20Reddy&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "A",
+    "cgpa": 8.3,
+    "attendance": 84,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9896512593",
+    "parentContact": "+91 9026009111",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-01-13",
+    "bloodGroup": "AB+",
+    "address": "161 Street, City, State - 1234561",
+    "aadharNumber": "61234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU062",
+    "name": "Nandini Kumar",
+    "registrationNumber": "23B01A0502",
+    "email": "nandini.kumar@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Nandini%20Kumar&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "B",
+    "cgpa": 8.2,
+    "attendance": 76,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9791393897",
+    "parentContact": "+91 9439607057",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-03-06",
+    "bloodGroup": "A+",
+    "address": "162 Street, City, State - 1234562",
+    "aadharNumber": "62234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU063",
+    "name": "Oviya Gupta",
+    "registrationNumber": "23B01A0503",
+    "email": "oviya.gupta@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Oviya%20Gupta&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "C",
+    "cgpa": 8.1,
+    "attendance": 76,
+    "backlogs": 0,
+    "counsellingSessions": 4,
+    "phone": "+91 9316734774",
+    "parentContact": "+91 9142384971",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-09-17",
+    "bloodGroup": "AB+",
+    "address": "163 Street, City, State - 1234563",
+    "aadharNumber": "63234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU064",
+    "name": "Pallavi Sharma",
+    "registrationNumber": "23B01A0504",
+    "email": "pallavi.sharma@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Pallavi%20Sharma&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "A",
+    "cgpa": 8.7,
+    "attendance": 80,
+    "backlogs": 0,
+    "counsellingSessions": 5,
+    "phone": "+91 9551438700",
+    "parentContact": "+91 9747475966",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-06-11",
+    "bloodGroup": "B+",
+    "address": "164 Street, City, State - 1234564",
+    "aadharNumber": "64234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU065",
+    "name": "Riya Patel",
+    "registrationNumber": "23B01A0505",
+    "email": "riya.patel@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Riya%20Patel&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "B",
+    "cgpa": 7.8,
+    "attendance": 80,
+    "backlogs": 1,
+    "counsellingSessions": 4,
+    "phone": "+91 9119929816",
+    "parentContact": "+91 9896689558",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-09-07",
+    "bloodGroup": "AB+",
+    "address": "165 Street, City, State - 1234565",
+    "aadharNumber": "65234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU066",
+    "name": "Sneha Rao",
+    "registrationNumber": "23B01A0506",
+    "email": "sneha.rao@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Sneha%20Rao&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "C",
+    "cgpa": 8.2,
+    "attendance": 75,
+    "backlogs": 1,
+    "counsellingSessions": 0,
+    "phone": "+91 9212618705",
+    "parentContact": "+91 9885917060",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-09-01",
+    "bloodGroup": "A+",
+    "address": "166 Street, City, State - 1234566",
+    "aadharNumber": "66234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU067",
+    "name": "Trisha Krishnan",
+    "registrationNumber": "23B01A0507",
+    "email": "trisha.krishnan@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Trisha%20Krishnan&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "A",
+    "cgpa": 8.6,
+    "attendance": 85,
+    "backlogs": 0,
+    "counsellingSessions": 4,
+    "phone": "+91 9418109547",
+    "parentContact": "+91 9893309609",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-03-14",
+    "bloodGroup": "AB+",
+    "address": "167 Street, City, State - 1234567",
+    "aadharNumber": "67234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU068",
+    "name": "Usha Nair",
+    "registrationNumber": "23B01A0508",
+    "email": "usha.nair@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Usha%20Nair&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "B",
+    "cgpa": 7.7,
+    "attendance": 78,
+    "backlogs": 0,
+    "counsellingSessions": 1,
+    "phone": "+91 9802140163",
+    "parentContact": "+91 9590233375",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-08-08",
+    "bloodGroup": "O+",
+    "address": "168 Street, City, State - 1234568",
+    "aadharNumber": "68234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU069",
+    "name": "Varsha Singh",
+    "registrationNumber": "23B01A0509",
+    "email": "varsha.singh@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Varsha%20Singh&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "C",
+    "cgpa": 7.7,
+    "attendance": 75,
+    "backlogs": 0,
+    "counsellingSessions": 2,
+    "phone": "+91 9980496021",
+    "parentContact": "+91 9300156574",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-12-24",
+    "bloodGroup": "O+",
+    "address": "169 Street, City, State - 1234569",
+    "aadharNumber": "69234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU070",
+    "name": "Wriddhi Iyer",
+    "registrationNumber": "23B01A0510",
+    "email": "wriddhi.iyer@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Wriddhi%20Iyer&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "A",
+    "cgpa": 7.5,
+    "attendance": 80,
+    "backlogs": 0,
+    "counsellingSessions": 0,
+    "phone": "+91 9581659974",
+    "parentContact": "+91 9748437902",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2002-11-27",
+    "bloodGroup": "AB+",
+    "address": "170 Street, City, State - 1234570",
+    "aadharNumber": "70234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU071",
+    "name": "Ximena Menon",
+    "registrationNumber": "23B01A0511",
+    "email": "ximena.menon@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Ximena%20Menon&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "A",
+    "cgpa": 7.5,
+    "attendance": 88,
+    "backlogs": 0,
+    "counsellingSessions": 2,
+    "phone": "+91 9820717986",
+    "parentContact": "+91 9356703394",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-06-08",
+    "bloodGroup": "A+",
+    "address": "171 Street, City, State - 1234571",
+    "aadharNumber": "71234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU072",
+    "name": "Yukta Das",
+    "registrationNumber": "23B01A0512",
+    "email": "yukta.das@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Yukta%20Das&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "B",
+    "cgpa": 8.6,
+    "attendance": 93,
+    "backlogs": 1,
+    "counsellingSessions": 3,
+    "phone": "+91 9388983254",
+    "parentContact": "+91 9666670717",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-01-25",
+    "bloodGroup": "A+",
+    "address": "172 Street, City, State - 1234572",
+    "aadharNumber": "72234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU073",
+    "name": "Zara Reddy",
+    "registrationNumber": "23B01A0513",
+    "email": "zara.reddy@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Zara%20Reddy&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "C",
+    "cgpa": 7.6,
+    "attendance": 78,
+    "backlogs": 1,
+    "counsellingSessions": 4,
+    "phone": "+91 9474818484",
+    "parentContact": "+91 9221763369",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-04-09",
+    "bloodGroup": "A+",
+    "address": "173 Street, City, State - 1234573",
+    "aadharNumber": "73234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU074",
+    "name": "Aisha Kumar",
+    "registrationNumber": "23B01A0514",
+    "email": "aisha.kumar@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Aisha%20Kumar&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "A",
+    "cgpa": 8.2,
+    "attendance": 87,
+    "backlogs": 0,
+    "counsellingSessions": 2,
+    "phone": "+91 9994154786",
+    "parentContact": "+91 9859739241",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-02-22",
+    "bloodGroup": "O+",
+    "address": "174 Street, City, State - 1234574",
+    "aadharNumber": "74234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU075",
+    "name": "Bindiya Gupta",
+    "registrationNumber": "23B01A0515",
+    "email": "bindiya.gupta@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Bindiya%20Gupta&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "B",
+    "cgpa": 8.4,
+    "attendance": 77,
+    "backlogs": 0,
+    "counsellingSessions": 0,
+    "phone": "+91 9925452922",
+    "parentContact": "+91 9688774522",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-05-01",
+    "bloodGroup": "AB+",
+    "address": "175 Street, City, State - 1234575",
+    "aadharNumber": "75234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU076",
+    "name": "Chaya Sharma",
+    "registrationNumber": "23B01A0516",
+    "email": "chaya.sharma@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Chaya%20Sharma&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "C",
+    "cgpa": 7.6,
+    "attendance": 88,
+    "backlogs": 0,
+    "counsellingSessions": 1,
+    "phone": "+91 9792059512",
+    "parentContact": "+91 9718608400",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-04-17",
+    "bloodGroup": "O+",
+    "address": "176 Street, City, State - 1234576",
+    "aadharNumber": "76234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU077",
+    "name": "Dhwani Patel",
+    "registrationNumber": "23B01A0517",
+    "email": "dhwani.patel@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Dhwani%20Patel&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "A",
+    "cgpa": 8.2,
+    "attendance": 83,
+    "backlogs": 0,
+    "counsellingSessions": 3,
+    "phone": "+91 9929964121",
+    "parentContact": "+91 9033386395",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-01-28",
+    "bloodGroup": "A+",
+    "address": "177 Street, City, State - 1234577",
+    "aadharNumber": "77234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU078",
+    "name": "Ela Rao",
+    "registrationNumber": "23B01A0518",
+    "email": "ela.rao@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Ela%20Rao&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "B",
+    "cgpa": 7.8,
+    "attendance": 85,
+    "backlogs": 0,
+    "counsellingSessions": 3,
+    "phone": "+91 9326232965",
+    "parentContact": "+91 9587990319",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-09-14",
+    "bloodGroup": "AB+",
+    "address": "178 Street, City, State - 1234578",
+    "aadharNumber": "78234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU079",
+    "name": "Fiza Krishnan",
+    "registrationNumber": "23B01A0519",
+    "email": "fiza.krishnan@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Fiza%20Krishnan&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "C",
+    "cgpa": 8.3,
+    "attendance": 82,
+    "backlogs": 0,
+    "counsellingSessions": 4,
+    "phone": "+91 9344396068",
+    "parentContact": "+91 9994293098",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-07-03",
+    "bloodGroup": "O+",
+    "address": "179 Street, City, State - 1234579",
+    "aadharNumber": "79234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Professional",
+      "qualification": "B.Tech",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543212",
+      "occupation": "Teacher",
+      "qualification": "M.A.",
+      "annualIncome": 400000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543213",
+      "address": "College Road, City"
+    },
+    "academicPerformance": [
+      {
+        "semester": 1,
+        "sgpa": 8,
+        "credits": 24,
+        "subjects": [
+          {
+            "code": "CS101",
+            "name": "Programming",
+            "attendance": 85,
+            "midMarks": 40,
+            "internalMarks": 18,
+            "grade": "A",
+            "credits": 4
+          }
+        ]
+      }
+    ],
+    "counsellingRecords": [],
+    "previousEducation": {
+      "classX": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2019,
+        "percentage": 88
+      },
+      "classXII": {
+        "institution": "School",
+        "board": "CBSE",
+        "year": 2021,
+        "percentage": 85
+      }
+    },
+    "interests": [
+      "Technology",
+      "Coding"
+    ],
+    "strengths": [
+      "Problem Solving"
+    ],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU080",
+    "name": "Gauri Nair",
+    "registrationNumber": "23B01A0520",
+    "email": "gauri.nair@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=Gauri%20Nair&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "A",
+    "cgpa": 8.2,
+    "attendance": 93,
+    "backlogs": 0,
+    "counsellingSessions": 3,
+    "phone": "+91 9223807324",
+    "parentContact": "+91 9830913221",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-02-20",
+    "bloodGroup": "B+",
+    "address": "180 Street, City, State - 1234580",
+    "aadharNumber": "80234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543210",
+      "occupation": "Business",
+      "qualification": "B.Com",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Housewife",
+      "qualification": "B.A.",
+      "annualIncome": 300000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543212",
+      "address": "Guardian Address"
+    },
+    "interests": ["Technology", "Coding"],
+    "strengths": ["Problem Solving"],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU081",
+    "name": "ANANYA REDDY",
+    "registrationNumber": "23b01a12d1",
+    "email": "ananya.reddy@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=ANANYA%20REDDY&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "A",
+    "cgpa": 8.2,
+    "attendance": 88,
+    "backlogs": 0,
+    "counsellingSessions": 2,
+    "phone": "+91 9123456789",
+    "parentContact": "+91 9876543213",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-01-15",
+    "bloodGroup": "A+",
+    "address": "181 Street, City, State - 1234581",
+    "aadharNumber": "81234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543210",
+      "occupation": "Business",
+      "qualification": "B.Com",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Housewife",
+      "qualification": "B.A.",
+      "annualIncome": 300000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543212",
+      "address": "Guardian Address"
+    },
+    "interests": ["Technology", "Coding"],
+    "strengths": ["Problem Solving"],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU082",
+    "name": "BHAVANI SHARMA",
+    "registrationNumber": "23b01a12d2",
+    "email": "bhavani.sharma@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=BHAVANI%20SHARMA&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "B",
+    "cgpa": 7.9,
+    "attendance": 82,
+    "backlogs": 1,
+    "counsellingSessions": 3,
+    "phone": "+91 9123456790",
+    "parentContact": "+91 9876543214",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-03-22",
+    "bloodGroup": "B+",
+    "address": "182 Street, City, State - 1234582",
+    "aadharNumber": "82234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543210",
+      "occupation": "Business",
+      "qualification": "B.Com",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Housewife",
+      "qualification": "B.A.",
+      "annualIncome": 300000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543212",
+      "address": "Guardian Address"
+    },
+    "interests": ["Technology", "Coding"],
+    "strengths": ["Problem Solving"],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU083",
+    "name": "CHANDANA IYER",
+    "registrationNumber": "23b01a12d3",
+    "email": "chandana.iyer@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=CHANDANA%20IYER&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 3,
+    "section": "C",
+    "cgpa": 8.5,
+    "attendance": 91,
+    "backlogs": 0,
+    "counsellingSessions": 1,
+    "phone": "+91 9123456791",
+    "parentContact": "+91 9876543215",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2003-04-10",
+    "bloodGroup": "O+",
+    "address": "183 Street, City, State - 1234583",
+    "aadharNumber": "83234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543210",
+      "occupation": "Business",
+      "qualification": "B.Com",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Housewife",
+      "qualification": "B.A.",
+      "annualIncome": 300000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543212",
+      "address": "Guardian Address"
+    },
+    "interests": ["Technology", "Coding"],
+    "strengths": ["Problem Solving"],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU084",
+    "name": "DIVYA MENON",
+    "registrationNumber": "23b01a12d4",
+    "email": "divya.menon@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=DIVYA%20MENON&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "A",
+    "cgpa": 7.8,
+    "attendance": 85,
+    "backlogs": 0,
+    "counsellingSessions": 2,
+    "phone": "+91 9123456792",
+    "parentContact": "+91 9876543216",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2004-05-18",
+    "bloodGroup": "A+",
+    "address": "184 Street, City, State - 1234584",
+    "aadharNumber": "84234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543210",
+      "occupation": "Business",
+      "qualification": "B.Com",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Housewife",
+      "qualification": "B.A.",
+      "annualIncome": 300000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543212",
+      "address": "Guardian Address"
+    },
+    "interests": ["Technology", "Coding"],
+    "strengths": ["Problem Solving"],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU085",
+    "name": "EESHA PATEL",
+    "registrationNumber": "23b01a12d5",
+    "email": "eesha.patel@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=EESHA%20PATEL&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "B",
+    "cgpa": 8.1,
+    "attendance": 87,
+    "backlogs": 1,
+    "counsellingSessions": 4,
+    "phone": "+91 9123456793",
+    "parentContact": "+91 9876543217",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2004-06-25",
+    "bloodGroup": "B+",
+    "address": "185 Street, City, State - 1234585",
+    "aadharNumber": "85234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543210",
+      "occupation": "Business",
+      "qualification": "B.Com",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Housewife",
+      "qualification": "B.A.",
+      "annualIncome": 300000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543212",
+      "address": "Guardian Address"
+    },
+    "interests": ["Technology", "Coding"],
+    "strengths": ["Problem Solving"],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU086",
+    "name": "FARIDA KHAN",
+    "registrationNumber": "23b01a12d6",
+    "email": "farida.khan@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=FARIDA%20KHAN&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "C",
+    "cgpa": 7.6,
+    "attendance": 83,
+    "backlogs": 0,
+    "counsellingSessions": 3,
+    "phone": "+91 9123456794",
+    "parentContact": "+91 9876543218",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2004-07-30",
+    "bloodGroup": "O+",
+    "address": "186 Street, City, State - 1234586",
+    "aadharNumber": "86234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543210",
+      "occupation": "Business",
+      "qualification": "B.Com",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Housewife",
+      "qualification": "B.A.",
+      "annualIncome": 300000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543212",
+      "address": "Guardian Address"
+    },
+    "interests": ["Technology", "Coding"],
+    "strengths": ["Problem Solving"],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU087",
+    "name": "GAYATHRI NAIR",
+    "registrationNumber": "23b01a12d7",
+    "email": "gayathri.nair@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=GAYATHRI%20NAIR&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "A",
+    "cgpa": 8.3,
+    "attendance": 89,
+    "backlogs": 0,
+    "counsellingSessions": 1,
+    "phone": "+91 9123456795",
+    "parentContact": "+91 9876543219",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2004-08-14",
+    "bloodGroup": "AB+",
+    "address": "187 Street, City, State - 1234587",
+    "aadharNumber": "87234 5678 9012"
+  },
+  {
+    "password": "student123",
+    "gender": "Female",
+    "religion": "Hindu",
+    "nationality": "Indian",
+    "category": "General",
+    "father": {
+      "name": "Parent",
+      "phone": "+91 9876543210",
+      "occupation": "Business",
+      "qualification": "B.Com",
+      "annualIncome": 600000
+    },
+    "mother": {
+      "name": "Parent",
+      "phone": "+91 9876543211",
+      "occupation": "Housewife",
+      "qualification": "B.A.",
+      "annualIncome": 300000
+    },
+    "localGuardian": {
+      "name": "Guardian",
+      "phone": "+91 9876543212",
+      "address": "Guardian Address"
+    },
+    "interests": ["Technology", "Coding"],
+    "strengths": ["Problem Solving"],
+    "weaknesses": [],
+    "achievements": [],
+    "healthInformation": "None",
+    "backlogDetails": [],
+    "mentorRemarks": [],
+    "goals": {
+      "shortTerm": [],
+      "longTerm": [],
+      "careerPlans": "Software Developer",
+      "actionPlan": []
+    },
+    "id": "STU088",
+    "name": "HARSHITHA REDDY",
+    "registrationNumber": "23b01a12d8",
+    "email": "harshitha.reddy@college.edu",
+    "photo": "https://ui-avatars.com/api/?name=HARSHITHA%20REDDY&background=7c3aed&color=fff&size=128",
+    "branch": "Information Technology",
+    "year": 2,
+    "section": "B",
+    "cgpa": 7.9,
+    "attendance": 86,
+    "backlogs": 1,
+    "counsellingSessions": 2,
+    "phone": "+91 9123456796",
+    "parentContact": "+91 9876543220",
+    "mentorId": "MEN004",
+    "dateOfBirth": "2004-09-08",
+    "bloodGroup": "A+",
+    "address": "188 Street, City, State - 1234588",
+    "aadharNumber": "88234 5678 9012"
+  }
+]

@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: 0 48 135; /* Navy blue */
+    --color-primary-dark: 0 36 99; /* Darker navy */
+    --color-accent: 128 0 32; /* Maroon */
+    --color-secondary: 173 216 230; /* Light blue */
+    --color-surface: 240 248 255; /* Alice blue (very light blue) */
+    --color-card: 255 255 255;
+    --radius-card: 1rem;
+    --radius-button: 0.75rem;
+    --shadow-soft: 0 1px 3px 0 rgb(0 0 0 / 0.05), 0 1px 2px -1px rgb(0 0 0 / 0.05);
+    --shadow-card: 0 4px 6px -1px rgb(0 0 0 / 0.05), 0 2px 4px -2px rgb(0 0 0 / 0.05);
+    --shadow-elevated: 0 10px 15px -3px rgb(0 0 0 / 0.05), 0 4px 6px -4px rgb(0 0 0 / 0.05);
+  }
+
+  body {
+    @apply bg-blue-50 text-slate-800 antialiased;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(148 163 184) transparent;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-blue-900 text-white px-4 py-2.5 rounded-xl font-semibold hover:bg-blue-800 transition-all duration-200 shadow-sm hover:shadow;
+  }
+
+  .btn-secondary {
+    @apply bg-blue-100 text-blue-800 px-4 py-2.5 rounded-xl font-medium hover:bg-blue-200 transition-all duration-200;
+  }
+
+  .btn-accent {
+    @apply bg-red-800 text-white px-4 py-2.5 rounded-xl font-semibold hover:bg-red-700 transition-all duration-200 shadow-sm hover:shadow;
+  }
+
+  .card-hover {
+    @apply transition-all duration-200 hover:shadow-lg hover:-translate-y-0.5;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-2.5 rounded-xl border border-blue-200 focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 transition-colors;
+  }
+}

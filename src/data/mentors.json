@@ -1,0 +1,54 @@
+[
+  {
+    "id": "MEN001",
+    "name": "Dr. P. Srikanth",
+    "email": "srikanth.p@college.edu",
+    "department": "Computer Science and Engineering",
+    "phone": "08816-250864",
+    "qualification": "Ph.D.",
+    "experience": "12 years",
+    "password": "mentor123",
+    "photo": "https://ui-avatars.com/api/?name=P+Srikanth&background=4f46e5&color=fff&size=128",
+    "assignedStudents": ["STU001", "STU002", "STU003", "STU004", "STU005", "STU006", "STU007", "STU008", "STU009", "STU010", "STU011", "STU012", "STU013", "STU014", "STU015", "STU016", "STU017", "STU018", "STU019", "STU020"],
+    "totalCounsellingSessions": 98
+  },
+  {
+    "id": "MEN002",
+    "name": "Mrs. K. Ratna Kumari",
+    "email": "ratnakumari.k@college.edu",
+    "department": "Computer Science and Engineering",
+    "phone": "08816-250864",
+    "qualification": "M.Tech. (Ph.D.)",
+    "experience": "9 years",
+    "password": "mentor123",
+    "photo": "https://ui-avatars.com/api/?name=K+Ratna+Kumari&background=4f46e5&color=fff&size=128",
+    "assignedStudents": ["STU021", "STU022", "STU023", "STU024", "STU025", "STU026", "STU027", "STU028", "STU029", "STU030", "STU031", "STU032", "STU033", "STU034", "STU035", "STU036", "STU037", "STU038", "STU039", "STU040"],
+    "totalCounsellingSessions": 112
+  },
+  {
+    "id": "MEN003",
+    "name": "Mrs. M. Suma Bharathi",
+    "email": "sumabharathi.m@college.edu",
+    "department": "Information Technology",
+    "phone": "08816-250864",
+    "qualification": "M.Tech. (Ph.D.)",
+    "experience": "9 years",
+    "password": "mentor123",
+    "photo": "https://ui-avatars.com/api/?name=M+Suma+Bharathi&background=4f46e5&color=fff&size=128",
+    "assignedStudents": ["STU041", "STU042", "STU043", "STU044", "STU045", "STU046", "STU047", "STU048", "STU049", "STU050", "STU051", "STU052", "STU053", "STU054", "STU055", "STU056", "STU057", "STU058", "STU059", "STU060"],
+    "totalCounsellingSessions": 85
+  },
+  {
+    "id": "MEN004",
+    "name": "Mrs. Y Yesu Jyothi",
+    "email": "yesujyothi.y@college.edu",
+    "department": "Information Technology",
+    "phone": "08816-250864",
+    "qualification": "M.Tech.",
+    "experience": "6 years",
+    "password": "mentor123",
+    "photo": "https://ui-avatars.com/api/?name=Y+Yesu+Jyothi&background=4f46e5&color=fff&size=128",
+    "assignedStudents": ["STU012", "STU013", "STU014", "STU015", "STU016", "STU017", "STU018", "STU019", "STU020", "STU021", "STU022", "STU023", "STU081", "STU082", "STU083", "STU084", "STU085", "STU086", "STU087", "STU088"],
+    "totalCounsellingSessions": 56
+  }
+]
